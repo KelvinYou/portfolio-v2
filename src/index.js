@@ -1,8 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import App from './components/App';
 import reportWebVitals from './reportWebVitals';
+// import { ThemeProvider } from "@mate/styles";
+// import { CssBaseline } from "@material-ui/core";rial-ui
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
